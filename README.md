@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on certain business.
 - 📫 How to reach me xing.ji@student.lab.fi
 - 😄 Pronouns: [Ji](https://www.bilibili.tv/en)
-- ⚡ Fun fact: ![sunset](https://www.pexels.com/photo/the-night-sky-over-a-lake-with-stars-and-a-blue-sky-27202978/)
+- ⚡ Fun fact: ![sunset](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <!---
 Dallzay/Dallzay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
