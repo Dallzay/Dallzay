@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on certain business.
 - 📫 How to reach me xing.ji@student.lab.fi
-- 😄 Pronouns: ...
+- 😄 Pronouns: [Ji](https://www.bilibili.tv/en)
 - ⚡ Fun fact: ...
 
 <!---
